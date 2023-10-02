@@ -2,7 +2,7 @@
 
 ## function.sol
 
-This Repo is made for an Assessments for the eth-beginner project for Metacrafters. The purpose of this Repository is to showcase my knowledge and understanding of the smart contracts and especially, about creating my own Tokens,with mentioned requirements.
+This Repo is made for an Assessments for the etj-avax Intermediate project for Metacrafters. The purpose of this Repository is to showcase my knowledge and understanding of the smart contracts and especially, about creating my own Tokens,with mentioned requirements.
 
 Description
 This Repository consists of a contract named function.sol written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. It explain the uses the require(), assert(), and revert() statements in a function written in solidity:
